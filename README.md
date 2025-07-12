@@ -30,6 +30,8 @@ This project demonstrates a **fully automated CI/CD pipeline** that deploys a st
 ├── index.html
 ├── login.html
 ├── style.css
+├── save.php
+├── message.php
 └── .github/
     └── workflows/
         └── deploy.yml
@@ -159,7 +161,8 @@ Stored AWS credentials and bucket name in GitHub repository secrets.
 Added `deploy.yml` to `.github/workflows/` to handle CI/CD.
 
 📸 ![Step 6 - Workflow Created]
-
+<img width="1498" height="411" alt="Screenshot 2025-07-12 182733" src="https://github.com/user-attachments/assets/04d1c6d4-88cb-42d0-9061-520946c38e0f" />
+<img width="1916" height="913" alt="Screenshot 2025-07-12 182752" src="https://github.com/user-attachments/assets/796c5e94-28d3-4a46-9652-8c05b6aa91ba" />
 
 ---
 
@@ -167,7 +170,9 @@ Added `deploy.yml` to `.github/workflows/` to handle CI/CD.
 
 Pushed code to `main` branch. GitHub Actions automatically deployed it to S3.
 
-📸 ![Step 7 - Actions Success](Screenshots/7.png)
+📸 ![Step 7 - Actions Success]
+<img width="1146" height="555" alt="Screenshot 2025-07-12 182655" src="https://github.com/user-attachments/assets/b0e0ae06-75f8-4ff9-aef2-cd3b8cb7e69d" />
+<img width="1919" height="979" alt="Screenshot 2025-07-12 180037" src="https://github.com/user-attachments/assets/f820ba9e-84f5-4b7f-bd64-15fc8e5cf382" />
 
 ---
 
@@ -175,7 +180,9 @@ Pushed code to `main` branch. GitHub Actions automatically deployed it to S3.
 
 Accessed the live URL served from the S3 static hosting endpoint.
 
-📸 ![Step 8 - Website Preview](Screenshots/8.png)
+📸 ![Step 8 - Website Preview]
+<img width="1919" height="983" alt="Screenshot 2025-07-12 172906" src="https://github.com/user-attachments/assets/364b5900-f081-40e7-aae3-5c2eb8201417" />
+<img width="1919" height="1035" alt="Screenshot 2025-07-12 180050" src="https://github.com/user-attachments/assets/4a30a205-4a61-42d5-add9-86a2f1b20c08" />
 
 ---
 
@@ -208,9 +215,9 @@ Accessed the live URL served from the S3 static hosting endpoint.
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**UJJWAL WADHAI**  
 Aspiring DevOps & Cloud Engineer ☁️  
 🔗 [GitHub](https://github.com/yourusername)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn](www.linkedin.com/in/ujjwal-wadhai)
 
 ---
