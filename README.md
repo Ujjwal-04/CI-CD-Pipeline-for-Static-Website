@@ -217,7 +217,7 @@ Accessed the live URL served from the S3 static hosting endpoint.
 
 **UJJWAL WADHAI**  
 Aspiring DevOps & Cloud Engineer ☁️  
-🔗 [GitHub](https://github.com/yourusername)  
+🔗 [GitHub](https://github.com/Ujjwal-04)
 🔗 [LinkedIn](www.linkedin.com/in/ujjwal-wadhai)
 
 ---
